@@ -4,14 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80b2cd3c-8b30-44d3-a25f-f2b73123eefb" name="Changes" comment="first commit" />
+    <list default="true" id="80b2cd3c-8b30-44d3-a25f-f2b73123eefb" name="Changes" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project2Boot/src/main/java/com/basnin/Project2Boot/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project2Boot/src/main/java/com/basnin/Project2Boot/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project2Boot/src/main/java/com/basnin/Project2Boot/dao/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project2Boot/src/main/java/com/basnin/Project2Boot/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project2Boot/src/main/java/com/basnin/Project2Boot/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project2Boot/src/main/java/com/basnin/Project2Boot/service/UserServiseImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project2Boot/src/main/resources/templates/pages/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project2Boot/src/main/resources/templates/pages/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project2Boot/src/main/resources/templates/pages/update.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="dev" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -33,6 +53,7 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Maven.Project2Boot [clean].executor": "Run",
     "RequestMappingsPanelOrder0": "0",
     "RequestMappingsPanelOrder1": "1",
     "RequestMappingsPanelWidth0": "75",
@@ -40,7 +61,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "Spring Boot.Project2BootApplication.executor": "Run",
-    "git-widget-placeholder": "dev",
+    "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Java/Kata/PP/Project2Boot/Project2Boot/src/main/resources/templates",
@@ -82,7 +103,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1713651591483</updated>
-      <workItem from="1713651592536" duration="2762000" />
+      <workItem from="1713651592536" duration="5072000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -100,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713654250265</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1713654366984</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713654366985</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
